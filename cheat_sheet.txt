@@ -1,0 +1,17 @@
+
+# For loop
+for( var i=init; check_something(i); i=modified_i ) { }
+
+# HTML load scripts
+
+<head>
+  <script type="text/javascript" src="game_engine/lib/crafty.js"></script>
+  <script type="text/javascript" src="src/game.js"></script>
+</head>
+
+# HTML run game after all scripts have loaded
+<body>
+  <script>
+    Game.start();
+  </script>
+</body>
