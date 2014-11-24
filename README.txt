@@ -35,3 +35,7 @@ A session starts when coding for the game begins
 
 If you are playing AgileGame, please fork the master repository
     No real reason, I just want to see if others play this game
+
+Only five minutes total can be used to refer to outside documentation
+    game_engine is not outside documentation
+    agile_game is not outside documentation
