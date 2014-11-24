@@ -15,3 +15,5 @@ for( var i=init; check_something(i); i=modified_i ) { }
     Game.start();
   </script>
 </body>
+
+# TODO: HTML template
