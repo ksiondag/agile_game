@@ -1,0 +1,22 @@
+# http cheats
+require('http')
+http.creatServer(function (request, response) { }, ???)
+
+# url cheats
+require('url')
+
+TODO: Explain what the true is for
+url.parse(<url_string>, true)
+
+# string cheats
+TODO: How to split on substring or token?
+TODO: How to remove substring or token?
+
+# Debugger cheats
+> node debug <filename>.js
+
+In file:
+    debugger
+In debug mode:
+    setBreakpoint(<line#>)
+
