@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Introduction
 -------------------------------------------------------------------------------
-AgileGame is currently a "paper" prototype for a roguelike spiral-development
+AgileGame is currently a "paper" prototype for a roguelike agile-development
 game.
 
 -------------------------------------------------------------------------------
