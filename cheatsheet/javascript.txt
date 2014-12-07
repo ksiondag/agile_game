@@ -1,0 +1,5 @@
+# String manipulation
+string.match(regularexpression)
+    Returns
+        match index and matching string
+        null if no match
