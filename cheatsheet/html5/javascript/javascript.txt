@@ -9,3 +9,5 @@ string.match(regularexpression)
         match index and matching string
         null if no match
 
+# TODO: document on load
+# TODO: get element by id
