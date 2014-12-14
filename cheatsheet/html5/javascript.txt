@@ -1,5 +1,11 @@
+# For loop
+for( var i=init; check_something(i); i=modified_i ) { }
+
+# TODO: iterative for-loop
+
 # String manipulation
 string.match(regularexpression)
     Returns
         match index and matching string
         null if no match
+

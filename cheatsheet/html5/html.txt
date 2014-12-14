@@ -1,9 +1,3 @@
-
-# For loop
-for( var i=init; check_something(i); i=modified_i ) { }
-
-# TODO: iterative for-loop
-
 # HTML load scripts
 
 <head>
