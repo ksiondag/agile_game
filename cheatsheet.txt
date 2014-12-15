@@ -1,0 +1,9 @@
+# Add agilegame as subrepo
+git submodule add git@github.com:ksiondag/agile_game.git
+
+# Add web_development_engine as subrepo
+git submodule add git@github.com:ksiondag/web_development_engine.git/
+
+# Add web_game_engine as subrepo
+git submodule add git@github.com:ksiondag/game_engine.git
+
