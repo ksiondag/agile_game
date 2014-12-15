@@ -1,3 +1,0 @@
-# Add agilegame as subrepo
-git submodule add git@github.com:<username>/agile_game.git
-

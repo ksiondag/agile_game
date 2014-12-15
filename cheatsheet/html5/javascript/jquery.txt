@@ -1,2 +1,0 @@
-# TODO: document access
-# TODO: get element by id

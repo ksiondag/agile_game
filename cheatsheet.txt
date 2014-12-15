@@ -7,3 +7,26 @@ git submodule add git@github.com:ksiondag/webdev_engine.git/
 # Add web_game_engine as subrepo
 git submodule add git@github.com:ksiondag/game_engine.git
 
+# node.js
+## fs cheats
+require('fs')
+fs.readFile(filename, [options,] callback)
+
+## http cheats
+require('http')
+http.creatServer(function (request, response) { }, ???)
+
+## url cheats
+require('url')
+
+TODO: Explain what the true is for
+url.parse(<url_string>, true)
+
+## Debugger cheats
+> node debug <filename>.js
+
+In file:
+    debugger
+In debug mode:
+    setBreakpoint(<line#>)
+
