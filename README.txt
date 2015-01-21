@@ -28,16 +28,23 @@ You have one session to make your prototype
 
 Code and documentation can be saved in other submodules 
     This content can be used as reference in future sessions
-        (This is what gives this game a roguelike quality)
+        This is what gives this game a roguelike quality
+            It also allows real development in a short time
 
-A session starts when coding for the prototype begins
+A session starts when the countdown timer begins
 
 If you are playing AgileGame, please fork the master repository
     No real reason, I just want to see if others play this game
 
+Outside documentation can not be referred to during session
 Only five minutes total can be used to refer to outside documentation
-    If outside documentation is refered to
-        Look-up must be logged in agile_game/cheatsheet/ directory
+    If outside documentation must be refered to for any progress
+        End session
+            Delete all progress not in submodules
+        Look-up necessary information
+        Log information
+        Restart session
     Submodules are not outside documentation
 
 Anything that player wants to do but can't must be logged in agile_game
+    For after-session research purposes
